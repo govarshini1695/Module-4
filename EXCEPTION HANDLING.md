@@ -40,6 +40,7 @@ finally:
 ```
 
 ### OUTPUT
+![image](https://github.com/user-attachments/assets/4e136fd8-0efd-40f1-8806-081f4f3a2370)
 
 
 
